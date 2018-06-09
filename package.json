@@ -28,7 +28,7 @@
     "eslint": "^2.4.0"
   },
   "dependencies": {
-    "loggy": "~0.3.0",
+    "loggy": "^1.0.2",
     "anymatch": "^1.3.0",
     "async-each": "^1.0.0",
     "browser-resolve": "^1.11.1",
